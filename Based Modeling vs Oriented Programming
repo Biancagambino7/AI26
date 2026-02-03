@@ -9,14 +9,14 @@
 
   <h2>Agent-Based Modeling (ABM)</h2>
   <p>
-    Agent-Based Modeling is used to simulate systems made up of individual agents.
-    It helps researchers study how simple interactions can lead to complex behavior.
+    Agent-Based Modeling is a way to simulate a system made up of many individual “agents,” like people or animals. 
+    Each agent follows simple rules, and by watching how they interact, researchers can see how complex patterns and behaviors form over time.
   </p>
 
   <h2>Agent-Oriented Programming (AOP)</h2>
   <p>
-    Agent-Oriented Programming is used to build software systems.
-    Agents are programmed to act independently, make decisions, and work together.
+    Agent-Oriented Programming is a way to build computer programs using “agents” that can think and act on their own. 
+    Each agent can make decisions, respond to its environment, and work with other agents to get things done, kind of like a team of smart bots working together.
   </p>
 </body>
 </html>
