@@ -22,5 +22,5 @@ Summary:
 - What plays different: Start with $1,000 and 4 birds instead of $500 and 3 birds, goal bird is now "Aa bb CC Dd" instead of "aa bb cc dd"
 
 Code & Resources:
-- Original Game: NetLogo Web - Bird Breeder
-- Modified Code: Google Colab Notebook
+- Original Game: [NetLogo Web - Bird Breeder](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Curricular%20Models/BEAGLE%20Evolution/Bird%20Breeder.nlogox)
+- Modified Code: [Google Colab Notebook](https://colab.research.google.com/drive/1mPRVzMei4Wh598yfcWXJnFDXXAj-7_1f?usp=sharing)
