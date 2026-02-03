@@ -1,0 +1,26 @@
+NetLogo Bird Evolution Game Revamped
+
+Description:
+I took the NetLogo bird breeding game and changed up the gameplay a bit to make some parts easier and add fun visuals. 
+It is a genetics game through NetLogo where you selectively breed birds to create a target bird with specific genetic traits while managing your budget and (optionally) competing against other players.
+
+Changes I Made:
+- Starting Funds: Changed from $500 to $1,000
+- Bird Size: Changed from 0.8 to 0.9 to be bigger
+- Your Cage Color: Changed from turquoise to sky blue
+- Player Colors: Changed from pink, green, brown, and gray to bright red, lime green, orange, and violet
+- Birds features: Changed color schemes, hair - (yellow/orange/red gradient), wings - (blue gradient), chest - (white/gray/black), and tails - (lime/green/dark green gradient)
+
+Gameplay Changes:
+- Starting Birds: Changed from 3 to 4 birds for player 4 (you)
+- Egg Color: Changed from blue to cyan
+- Egg Size: Changed from 0.5 to 0.6 to be bigger
+- Goal Bird Genetics: Changed from all recessive (aa bb cc dd) to mixed (Aa bb CC Dd)
+
+Summary:
+- What looks different: Birds are now purple with colorful rainbow traits instead of gray, cages are bright colors, eggs are cyan and bigger
+- What plays different: Start with $1,000 and 4 birds instead of $500 and 3 birds, goal bird is now "Aa bb CC Dd" instead of "aa bb cc dd"
+
+Code & Resources:
+- Original Game: NetLogo Web - Bird Breeder
+- Modified Code: Google Colab Notebook
